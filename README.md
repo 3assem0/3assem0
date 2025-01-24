@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seaf26.seaf26" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seaf+Gamel!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Assem+Ayman!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Egypt</h3>
@@ -14,14 +14,14 @@
  
  🌱 I’m currently learning *React Native, 3d animation, AWS*
 
-💬 Ask me about *PHP, React, Firebase... or anything [here](https://github.com/seaf26/seaf26/issues)*
+💬 Ask me about *PHP, React, Firebase... or anything [here](https://github.com/3assem0/3assem0/issues)*
 
 ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:seafmohamedgamel@gmail.com">
+  <a href="mailto:assemayman5900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/seaf-gamel-31303626b" target="_blank">
