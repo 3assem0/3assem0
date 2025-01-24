@@ -24,7 +24,7 @@
   <a href="mailto:assemayman5900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/seaf-gamel-31303626b" target="_blank">
+  <a href="https://www.linkedin.com/in/assem-ayman-abdelfatah-831662262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://new-profile-1fc1.vercel.app/" target="_blank">
