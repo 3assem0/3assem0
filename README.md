@@ -14,9 +14,7 @@
  
  🌱 I’m currently learning Nest.js
 
-💬 Ask me about node.js, React/vite, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)*
-
-⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
+💬 Ask me about node.js, React/vite, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)
 
  </div>
  
