@@ -22,7 +22,7 @@
   <a href="mailto:assemayman5900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/assem-ayman-abdelfatah-831662262/" target="_blank">
+  <a href="www.linkedin.com/in/assem-ayman-abdelwahab-831662262" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://3assem0.github.io/Portfolio/" target="_blank">
@@ -35,8 +35,8 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,html,css,vscode,github,figma,tailwind,git,stackoverflow" />
-    <img src="https://skillicons.dev/icons?i=npm,php,javascript,typescript,powershell,vite,redux,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,html,css,vscode,github,vercel,figma,tailwind,git,stackoverflow,jquery,kali,linux,mongodb,nestjs,nodejs,notion" />
+    <img src="https://skillicons.dev/icons?i=npm,php,javascript,typescript,powershell,vite,redux,java,nextjs,mysql,arduino,aws,c,cs,,cpp,dart,flutter,github,mysql,regex,solidity" /><br>
 </div>
 
 <br/>
