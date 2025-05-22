@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on developing me self
+ 🔭 I’m currently working on developing my self
  
  🌱 I’m currently learning Nest.js
 
