@@ -1,114 +1,73 @@
-<!-- =========================
-  Professional • Visual • Clean
-  - No personal photo
-  - Next.js / Nest.js / Node.js marked as completed
-  - Replace demo GIF placeholders in /assets/ if you want
-========================= -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seaf26.seaf26" />
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=3assem0.3assem0" alt="visitor badge" />
-</p>
-
-<!-- HERO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=3000&center=true&vCenter=true&width=820&lines=Hi,+I%27m+Assem+Ayman+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+Full-Stack+%26+Embedded" alt="typing" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Assem+Ayman!;" />
 </h1>
 
-<p align="center"><em>Building reliable web systems and polished embedded prototypes — focused on clean architecture, repeatable delivery, and great UX.</em></p>
+<h3 align="center">A passionate software developer from Egypt</h3>
 
----
+<br/>
 
-<!-- QUICK BADGES -->
-<p align="center">
-  <a href="https://github.com/3assem0"><img alt="GitHub followers" src="https://img.shields.io/github/followers/3assem0?style=social" /></a>
-  <a href="https://github.com/3assem0"><img alt="Top langs" src="https://img.shields.io/badge/Top%20Langs-JS%2FTS-blue?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/3assem-ayman-abdelwahab"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:assemayman5900@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-</p>
-
----
-
-## ⭐ Professional Summary
-- Full-stack software engineer experienced in **React / Next.js**, **Node.js**, and **Nest.js** (production-ready).  
-- Embedded/IoT experience: **ESP32**, sensor integration, and hardware + web interfaces.  
-- Strong focus on: **clean architecture**, automated CI/CD, reproducible dev environments, and developer-friendly docs.  
-- Graduation project: **No-code website builder** (block-based editor for non-professional Arabic users).
-
----
-
-## ✅ Current status (high level)
-- Next.js — **Completed / Production** ✅  
-- Nest.js — **Completed / Production** ✅  
-- Node.js — **Completed / Production** ✅  
-- Actively improving: test coverage, deployment automation, and UX polish.
-
----
-
-## 🧰 Tech Stack (visual)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,html,css,tailwind,vite" alt="primary tech" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,aws,vercel,github,docker" alt="platforms & dbs" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,python,flutter,figma" alt="embedded & tools" />
+ 
+ 🔭 I’m currently working on developing my self
+ 
+ 🌱 I’m currently learning Nest.js
+
+💬 Ask me about node.js, React/vite, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:assemayman5900@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/assem-ayman-abdelwahab-831662262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://3assem0.github.io/Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
----
-
-## 📊 Proficiency (visual bars)
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-Production-green?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Nest.js-Production-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-Production-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-Advanced-blue?style=for-the-badge" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,html,css,vscode,github,nestjs,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=npm,php,javascript,typescript,powershell,vite,redux,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cs,cpp,dart,flutter,github,mysql,regex,solidity,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,figma,tailwind,git,stackoverflow,jquery,kali,linux,mongodb" /><br>
 </div>
 
----
+<br/>
+<hr/>
 
-## 🧩 Featured Projects (cards)
-> Each card: one-line summary, tech, demo (replace GIFs in `/assets/`), and link to repo / live.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/3assem0/3assem0/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-### Portfolio — personal site & projects
-- **Summary:** Fast portfolio / blog showcasing projects and case studies.  
-- **Tech:** Next.js, Vite, Tailwind, Vercel  
-- **Demo (replace if you want):**  
-  `![portfolio-demo](/assets/portfolio-demo.gif)`  
-- **Live / Repo:** https://3assem0.github.io/Portfolio/ — repo: `github.com/3assem0/portfolio`
+<hr/>
 
----
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center
+    ><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=3assem0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=3assem0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### Voice-Controlled Robot (ESP32)
-- **Summary:** ESP32-controlled robot with speech-to-command UI and websocket telemetry.  
-- **Tech:** ESP32, WebSockets, Node/Express (optional), plain JS UI  
-- **Demo:**  
-  `![robot-demo](/assets/robot-demo.gif)`  
-- **Repo:** `github.com/3assem0/voice-controlled-robot`
+<br/><br/>
 
----
+<hr/>
 
-### No-Code Website Builder (Graduation project)
-- **Summary:** Block-based editor modeled after Scratch/Framer — target: non-professional Arabic users. Exports HTML/CSS/JS.  
-- **Tech:** React, Blockly, Firebase (planned), export toolchain  
-- **Demo:**  
-  `![nocode-demo](/assets/nocode-demo.gif)`  
-- **Repo:** `github.com/3assem0/no-code-builder`
+<br/>
 
----
 
-## 📐 Architecture snapshot (example)
-**Typical project structure I follow**
-```text
-/backend                 # Nest.js / Node.js services
-  /src
-    /modules
-    /common
-    main.ts
-/docker-compose.yml     # dev stack: db, redis, api, web
-/frontend                # Next.js / Vite React app
-  /src
-    /components
-    /lib
-infra/                   # deployment scripts, IaC, pipelines
-README.md
+
+<br/>
