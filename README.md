@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on developing my self
- 
- 🌱 I’m currently learning Nest.js
+  I’m currently learning Laravel
 
-💬 Ask me about node.js, React/vite, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)
+💬 Ask me about Web Development, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)
 
  </div>
  
