@@ -2,7 +2,7 @@
 <img src="assets/banner.png" />
 
 <h1 align="center">Hi 👋, I'm Assem</h1>
-<h3 align="center">Full-Stack Developer | Building scalable & user-friendly apps 🚀 | Passionate about delivering impactful digital products 💻✨</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Frontend & Backend Engineer | React.js & Node.js Developer | Robotics coach, Programming & Web instructor.</h3>
 
 
 
@@ -11,13 +11,13 @@
      alt="Profile Image"
      width="320" />
      
-- 🚀 I’m currently working **Software Engineer**
+-  I’m currently working as a **Software Engineer**
 
-- 🌱 I’m currently learning **RAG, LLM, Automation**
+-  I’m currently learning **RAG, LLM, Automation**
 
-- 💬 Ask me about **Software Engineer, React Js, Next Js, Node Js, Python**
+-  Ask me about **Software Engineer, React Js, Next Js, Node Js, Python**
 
-- 🤝 I’m eager to collaborate with **Creative Minds & Talented Developers**
+-  I’m eager to collaborate with **Creative Minds & Talented Developers**
 
 
 
