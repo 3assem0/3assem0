@@ -75,42 +75,46 @@
       <br>TailwindCSS
     </td>
    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
-      <br>VueJs
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>NodeJs
     </td>
    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
-      <br>VsCode
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
     </td>
   </tr>
   <tr>
      <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
      </td>
      <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <br>C++
      </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="55" height="55" />
-      <br>PostgreSQL
+      <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="55" height="55" />
+      <br>Arduino
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=raspberrypi" alt="icon" width="55" height="55" />
+      <br>Raspberry Pi
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
+      <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
-      <br>Doc's
+      <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="linux" />
+      <br>Actions
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="md" />
+      <br>TensorFlow
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
