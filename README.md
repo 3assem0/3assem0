@@ -26,7 +26,7 @@
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" widht=90>
-        <a href="www.linkedin.com/in/3assem-ayman-abdelwahab" target="_blank">
+        <a href="https://www.linkedin.com/in/3assem-ayman-abdelwahab" target="_blank">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
       <br>Linkedin
