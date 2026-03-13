@@ -1,71 +1,137 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seaf26.seaf26" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/banner.png" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Assem+Ayman!;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Assem</h1>
+<h3 align="center">Full-Stack Developer | Building scalable & user-friendly apps 🚀 | Passionate about delivering impactful digital products 💻✨</h3>
 
-<h3 align="center">A passionate software developer from Egypt</h3>
 
-<br/>
+
+<img align="right" hspace="30"
+     src="assets/ProfileImage.gif"
+     alt="Profile Image"
+     width="320" />
+     
+- 🚀 I’m currently working **Software Engineer**
+
+- 🌱 I’m currently learning **RAG, LLM, Automation**
+
+- 💬 Ask me about **Software Engineer, React Js, Next Js, Node Js, Python**
+
+- 🤝 I’m eager to collaborate with **Creative Minds & Talented Developers**
+
+
+
+<h1><img src="assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect!</h1>
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="www.linkedin.com/in/3assem-ayman-abdelwahab" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+   <td align="center" widht=90>
+        <a href="mailto:assemayman5900@gmail.com" target="_blank">
+            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+        </a>
+        <br>Gmail
+    </td>
+  </tr>
+</table>
+
+
+
+<h1>💻 Tools & Technology:</h1>
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="icon" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>TailwindCSS
+    </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
+      <br>VueJs
+    </td>
+   <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>VsCode
+    </td>
+  </tr>
+  <tr>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="55" height="55" />
+      <br>PHP
+     </td>
+     <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
+      <br>Laravel
+     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="55" height="55" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=py" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=md" width="55" height="55" alt="linux" />
+      <br>Doc's
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+
+
+<h1>📊 GitHub Stats:</h1>
 
 <div align="center">
- 
-  I’m currently learning Laravel
-
-💬 Ask me about Web Development, Robotics... or anything [here](https://github.com/3assem0/3assem0/issues)
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:assemayman5900@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/assem-ayman-abdelwahab-831662262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://3assem0.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=assem&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=assem&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=assem&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=assem&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=assem&theme=radical&utcOffset=8">
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,postman,html,css,vscode,github,nestjs,nodejs,py" />
-    <img src="https://skillicons.dev/icons?i=npm,php,javascript,typescript,powershell,vite,redux,java,nextjs,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cs,cpp,dart,flutter,github,mysql,regex,solidity,notion" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,figma,tailwind,git,stackoverflow,jquery,kali,linux,mongodb" /><br>
-</div>
+![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e737667](https://github.com/user-attachments/assets/a7362c57-1dfa-4ae7-9c5d-8ff3ae33be0d)
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/3assem0/3assem0/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center
-    ><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=3assem0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=3assem0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=assem&label=Profile%20views&color=0e75b6&style=flat" alt="assem" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
