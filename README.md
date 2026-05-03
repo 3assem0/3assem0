@@ -2,7 +2,7 @@
 <img src="assets/banner.png" />
 
 <h1 align="center">Hi 👋, I'm Assem</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Frontend & Backend Engineer | React.js & Node.js Developer | Robotics coach, Programming & Web instructor.</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Frontend & Backend Engineer | React.js & Node.js Developer | Django Develpoer | Robotics coach, Programming & Web instructor.</h3>
 
 
 
